@@ -7,7 +7,6 @@
 
 - 🎓 I’m currently pursuing a degree in **Electrical & Computer Engineering** at **DUTH**, with a strong focus on **automation** and **data structures**.  
 - 🐍 I specialize in **Python programming** to build efficient solutions for complex problems, particularly in **algorithm design** and **automation**.  
-- 🔐 I have a deep interest in **cybersecurity**, **artificial intelligence**, and **computational models**, always eager to integrate theoretical concepts into practical applications.  
 - 💡 Problem-solving is my passion, and I love creating systems that balance **theory** and **real-world impact**.  
 - 🧪 Currently working on **genetic algorithms** and exploring **machine learning** to deepen my knowledge of intelligent systems.
 
@@ -17,8 +16,7 @@
 
 - 📌 **Algorithm Visualization Tools** – Interactive Python projects that help visualize key algorithms for better learning and understanding.  
 - 📌 **Educational Simulations** – Creating interactive tools to teach algorithms such as **searching**, **sorting**, and **decision-making** through hands-on experience.  
-- 📌 **Android Apps for Sustainability** – Developing simple Android applications focused on sustainability topics like recycling and eco-awareness.  
-- 📌 **Personal Automation Scripts** – Creating Python scripts to automate repetitive university tasks, making everyday work more efficient.
+-   📌 **Personal Automation Scripts** – Creating Python scripts to automate repetitive university tasks, making everyday work more efficient.
 
 ---
 
