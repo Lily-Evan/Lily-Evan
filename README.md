@@ -1,51 +1,35 @@
-## Hi there 👋
-
-<!--
-**Lily-Evan/Lily-Evan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi, I'm Panagiota Grosdouli 👋</h1>
-<h3 align="center">Electrical & Computer Engineering Student | Python Developer | Aspiring Technologist | Science Enthusiast</h3>
+<h3 align="center">Electrical & Computer Engineering Student | Python Developer | Passionate About Technology & Problem Solving</h3>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 I'm an **Electrical & Computer Engineering** student at **DUTH**, passionate about merging technology and practical problem-solving.  
-- 🐍 I specialize in **Python programming**, working on projects related to **automation**, **algorithms**, and **data structures**.  
-- 🔐 I’m diving into **cybersecurity**, **artificial intelligence**, and **computational models**, always eager to learn and apply cutting-edge tech.  
-- 💡 My passion lies in tackling complex problems, combining **theory** with **real-world applications** to drive innovation.  
-- 🧪 Currently exploring **genetic algorithms**, **machine learning**, and **neural networks** to build smarter solutions.
+- 🎓 I’m currently pursuing a degree in **Electrical & Computer Engineering** at **DUTH**, with a strong focus on **automation** and **data structures**.  
+- 🐍 I specialize in **Python programming** to build efficient solutions for complex problems, particularly in **algorithm design** and **automation**.  
+- 🔐 I have a deep interest in **cybersecurity**, **artificial intelligence**, and **computational models**, always eager to integrate theoretical concepts into practical applications.  
+- 💡 Problem-solving is my passion, and I love creating systems that balance **theory** and **real-world impact**.  
+- 🧪 Currently working on **genetic algorithms** and exploring **machine learning** to deepen my knowledge of intelligent systems.
 
 ---
 
 ### 🚀 Projects & Contributions
 
-- 📌 **Algorithm Visualization Tools** – Python-based projects that visualize key algorithms for better understanding and teaching.  
-- 📌 **Educational Simulations** – Interactive tools for learning algorithms like **searching**, **sorting**, and **decision-making**.  
-- 📌 **Android Apps for Sustainability** – Basic Android projects promoting awareness around recycling and sustainable practices.  
-- 📌 **Automation Scripts** – Developing personal scripts to automate repetitive university tasks, optimizing workflow.
+- 📌 **Algorithm Visualization Tools** – Interactive Python projects that help visualize key algorithms for better learning and understanding.  
+- 📌 **Educational Simulations** – Creating interactive tools to teach algorithms such as **searching**, **sorting**, and **decision-making** through hands-on experience.  
+- 📌 **Android Apps for Sustainability** – Developing simple Android applications focused on sustainability topics like recycling and eco-awareness.  
+- 📌 **Personal Automation Scripts** – Creating Python scripts to automate repetitive university tasks, making everyday work more efficient.
 
 ---
 
-### 🎯 Core Interests & Goals
+### 🎯 Core Technical Interests & Goals
 
-- 🧮 **Algorithm Complexity & Optimization** – Making systems more efficient by understanding and applying complexity theory.  
-- 🔐 **Cybersecurity** – Understanding security protocols and methods to protect systems from vulnerabilities.  
-- 🤖 **Artificial Intelligence & Neural Networks** – Harnessing AI to create intelligent systems that learn and adapt.  
-- 📊 **Machine Learning** – Exploring foundational concepts and applying them to solve real-world problems.  
-- 🧠 **Computational Models & Biology-Inspired Algorithms** – Creating solutions that mimic natural systems to optimize efficiency.  
-- 🐍 **Python Programming** – My primary tool for building scalable, efficient, and maintainable projects.
+- 🧮 **Algorithm Complexity & Optimization** – Exploring how to make systems more efficient by reducing time and space complexity.  
+- 🔐 **Cybersecurity** – Delving into network security, encryption, and ethical hacking practices to build secure systems.  
+- 🤖 **Artificial Intelligence & Neural Networks** – Designing intelligent systems that mimic human decision-making processes.  
+- 📊 **Machine Learning** – Applying foundational techniques in **classification**, **regression**, and **clustering** to solve real-world problems.  
+- 🧠 **Computational Biology & Bio-Inspired Algorithms** – Leveraging nature’s intelligence to create better optimization models.  
+- 🐍 **Python Programming** – Leveraging Python for scripting, data analysis, and automation to streamline workflows and problem-solving.
 
 ---
 
@@ -70,23 +54,17 @@ Here are some ideas to get you started:
 
 ---
 
-### 🌐 Socials & Contact
+### 🌐 Connect with Me
 
-- 📧 Email: [**iitsbooklover@gmail.com**](mailto:iitsbooklover@gmail.com)  
-- 📸 Instagram (Bookstagram): [**@its_booklover_**](https://www.instagram.com/its_booklover_/)
-
----
-
-### 💬 Let's Connect!
-
-I'm always open to collaboration, sharing ideas, or discussing interesting projects! Feel free to reach out if you’re interested in any of the following:
-- **Algorithm challenges**  
-- **Python coding**  
-- **Tech discussions**  
-- **Sustainability and environmental tech**  
-- **Artificial intelligence and machine learning**  
+-by email panagiotagrosdouli@gmail.com
 
 ---
 
-> _"Driven by curiosity, powered by code, inspired by science."_  
-> **Always eager to learn and grow!**  
+### 💬 Let’s Collaborate!
+
+I’m always open to new opportunities, discussions, or collaborations! Whether you're interested in **algorithm challenges**, **AI development**, or simply brainstorming **tech solutions**, feel free to reach out!  
+Let’s build the future together.
+
+---
+
+> _"Curiosity fuels my learning, code powers my creations, and science inspires my journey."_
