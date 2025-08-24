@@ -1,4 +1,4 @@
-## 📊 GitHub Stats – Ultra Visual
+## 📊 GitHub Stats 
 
 ### 🔹 Quick Overview
 | Repositories | Followers | Following |
