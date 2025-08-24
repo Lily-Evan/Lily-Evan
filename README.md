@@ -40,13 +40,27 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
 ## 📊 GitHub Stats
 
-### 🔹 Contribution Overview
-![Panagiota's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lily-Evan&show_icons=true&theme=radical)
+### 🔹 Quick Overview
+| Repositories | Followers | Following |
+|--------------|-----------|-----------|
+| ![Repos](https://img.shields.io/badge/Repositories-88-blue?style=for-the-badge&logo=github&logoColor=white) | ![Followers](https://img.shields.io/badge/Followers-10-green?style=for-the-badge&logo=github&logoColor=white) | ![Following](https://img.shields.io/badge/Following-2-orange?style=for-the-badge&logo=github&logoColor=white) |
 
-### 🔹 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lily-Evan&layout=compact&theme=radical)
+### 🔹 Contribution Overview
+![Panagiota's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lily-Evan&show_icons=true&theme=merko)
+
+### 🔹 Contribution Progress
+**Commits:** ![Commits](https://img.shields.io/badge/Commits-1200-brightgreen?style=for-the-badge)  
+**Pull Requests:** ![PRs](https://img.shields.io/badge/Pull_Requests-45-blue?style=for-the-badge)  
+**Issues:** ![Issues](https://img.shields.io/badge/Issues-32-yellow?style=for-the-badge)
+
+### 🔹 Top Languages Usage
+**Python:** ![Python](https://img.shields.io/badge/Python-80%25-brightgreen?style=for-the-badge)  
+**Jupyter Notebook:** ![Jupyter](https://img.shields.io/badge/Jupyter-10%25-blue?style=for-the-badge)  
+**JavaScript:** ![JS](https://img.shields.io/badge/JavaScript-7%25-yellow?style=for-the-badge)  
+**R:** ![R](https://img.shields.io/badge/R-3%25-orange?style=for-the-badge)
 
 ---
 
@@ -57,5 +71,3 @@
 
 💬 Always open to **collaborations, discussions, and new opportunities**!  
 **Let’s build the future together! 🚀**
-
----
