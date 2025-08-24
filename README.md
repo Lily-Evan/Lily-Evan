@@ -40,9 +40,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
 ## 📊 GitHub Stats
+
+### 🔹 Contribution Overview
 ![Panagiota's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lily-Evan&show_icons=true&theme=radical)
+
+### 🔹 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lily-Evan&layout=compact&theme=radical)
 
 ---
