@@ -15,7 +15,14 @@ I’m passionate about coding, data science, and exploring new technologies. �
 ---
 
 ### 🔹 Contribution Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lily-Evan&show_icons=true&theme=tokyonight)
+
+
+#### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lily-Evan&show_icons=true&theme=tokyonight&hide_border=true)
+
+#### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lily-Evan&theme=tokyonight&hide_border=true)
+
 
 ---
 
