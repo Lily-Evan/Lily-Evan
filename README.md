@@ -1,56 +1,40 @@
 # 👋 Hi, I'm Panagiota Grosdouli  
 
-Welcome to my GitHub profile!  
-I’m passionate about coding, data science, and exploring new technologies. 🚀  
+💡 Passionate about coding, data science, and exploring new technologies.  
+🚀 Always learning and building cool projects.  
+
+---
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![R](https://img.shields.io/badge/R-lightgrey?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats  
 
-### 🔹 Quick Overview
-| Repositories | Followers | Following |
-|--------------|-----------|-----------|
-| ![Repos](https://img.shields.io/badge/Repositories-88-blue?style=for-the-badge&logo=github&logoColor=white) | ![Followers](https://img.shields.io/badge/Followers-10-green?style=for-the-badge&logo=github&logoColor=white) | ![Following](https://img.shields.io/badge/Following-2-orange?style=for-the-badge&logo=github&logoColor=white) |
-
----
-
-### 🔹 Contribution Overview
-
-
-#### 📊 GitHub Stats
+#### 🔹 Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lily-Evan&show_icons=true&theme=tokyonight&hide_border=true)
 
-#### 🔥 GitHub Streak
+#### 🔥 Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lily-Evan&theme=tokyonight&hide_border=true)
 
+#### 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lily-Evan&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### 🔹 Contribution Progress
-- **Commits:**  
-  ![Commits](https://img.shields.io/badge/Commits-1200-brightgreen?style=for-the-badge&logo=git&logoColor=white)  
-
-- **Pull Requests:**  
-  ![PRs](https://img.shields.io/badge/Pull_Requests-45-blue?style=for-the-badge&logo=git&logoColor=white)  
-
-- **Issues:**  
-  ![Issues](https://img.shields.io/badge/Issues-32-yellow?style=for-the-badge&logo=github&logoColor=white)  
+## 🌟 Highlights
+- 📂 **88+ Repositories** built and shared  
+- 🤝 **Open to collaborations** on data science & AI projects  
+- ✨ Interested in **algorithms, machine learning, and software engineering**  
 
 ---
 
-### 🔹 Top Languages Usage
-- **Python:**  
-  ![Python](https://img.shields.io/badge/Python-80%25-brightgreen?style=for-the-badge&logo=python&logoColor=white)  
-
-- **Jupyter Notebook:**  
-  ![Jupyter](https://img.shields.io/badge/Jupyter-10%25-blue?style=for-the-badge&logo=jupyter&logoColor=white)  
-
-- **JavaScript:**  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-7%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)  
-
-- **R:**  
-  ![R](https://img.shields.io/badge/R-3%25-orange?style=for-the-badge&logo=r&logoColor=white)  
-
----
-
-⭐️ From [Panagiota Grosdouli](https://github.com/Lily-Evan)  
+## 💬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iitsbooklover@gmail.com)
