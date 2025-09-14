@@ -16,6 +16,8 @@
 ---
 
 ## 📊 GitHub Stats  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lily-Evan&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 #### 🔹 Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lily-Evan&show_icons=true&theme=tokyonight&hide_border=true)
